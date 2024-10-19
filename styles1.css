@@ -1,0 +1,118 @@
+*{
+    
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    colour:white;
+    background-image:url();
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+}
+
+header {
+    background-color:green ;
+    color:white;
+    padding: 10px;
+    text-align: center;
+    width:400px;
+    padding-bottom:20px;
+}
+
+header nav a {
+    margin: 10px;
+    color: greenyellow;
+    text-decoration: none;
+    text-size:100px;
+}
+
+#hero {
+    background: url('../images/hero-bg.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: enter;
+    padding-left:100px;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#featured-events {
+    display: inline-block;
+    justify-content: space-around;
+    padding-left: 50px;
+}
+
+.event-card1 {
+    border: 3px solid #ccc;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    display:inline-block;
+    
+}
+.event-card2 {
+    border: 3px solid #ccc;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    display:inline-block;
+}
+.event-card3 {
+    border: 3px solid #ccc;
+    padding: 20px;
+    width: 120px;
+    text-align: center;
+    display:inline-block;
+}
+.event-card4 {
+    border: 3px solid #ccc;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    display:inline-block;
+}
+.event-card5 {
+    border: 3px solid #ccc;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    display:inline-block;
+}
+.event-card6{
+    border: 3px solid #ccc;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    display:inline-block;
+}
+.event-card7{
+    border: 3px solid #ccc;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    display:inline-block;
+}
+footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.event-listings{
+    padding-left:70px;
+}
+.slearch{
+    padding:px;
+}
+
+
+
+
